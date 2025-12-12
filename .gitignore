@@ -1,0 +1,9 @@
+# Data
+data/
+data/gdc/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
